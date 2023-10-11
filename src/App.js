@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>This will be deployed to Netlify</h1>
+      <h1>This is deployed to Netlify</h1>
     </div>
   );
 }
